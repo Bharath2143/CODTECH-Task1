@@ -1,1 +1,4 @@
-# CODTECH-Task1
+Name:G BHARATH
+Company :CODTECH IT SOLUTIONS
+DOMAIN:Python
+Duration:November 25 to january 10/2025
